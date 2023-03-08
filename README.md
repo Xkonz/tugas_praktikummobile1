@@ -1,3 +1,3 @@
 # flutter_praktikummobile1
  
-untuk code main ada di folder txt
+untuk code main.dart ada di folder txt
